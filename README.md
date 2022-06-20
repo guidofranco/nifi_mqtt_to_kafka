@@ -25,5 +25,6 @@ hacia Kafka, realizando unas transformaciones de por medio.
 `cd nifi_mqtt_to_kafa`
 3. Iniciar el entorno
 `docker-compose up`
-4. Abrir la Web UI de Nifi: `https://localhost:8443/nifi/`
-5. Subir el template (archivo `.xml`)
+4. Abrir la Web UI de Nifi: `https://localhost:8443/nifi/`.
+Las credenciales para iniciar sesión se encuentran en el archivo `docker-compose.yml`
+6. Subir el template (archivo `.xml`)
