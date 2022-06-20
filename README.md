@@ -20,7 +20,7 @@ hacia Kafka, realizando unas transformaciones de por medio.
 # Entorno
 
 1. Clonar el repositorio
-`git clone <https://github.com/guidofranco/nifi_mqtt_to_kafka.git`
+`git clone https://github.com/guidofranco/nifi_mqtt_to_kafka.git`
 2. Ir al directorio del proyecto
 `cd nifi_mqtt_to_kafa`
 3. Iniciar el entorno
