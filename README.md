@@ -29,4 +29,5 @@ hacia Kafka, realizando unas transformaciones de por medio.
 6. Subir el template (archivo `.xml`) a Nifi
 7. Activar unos controladores
 8. Iniciar el flujo completo
-9. Listo!
+9. Listo! A continuación una captura de como los datos llegan al tópico de Kafka
+![consume topic](images/consume_topic.png)
