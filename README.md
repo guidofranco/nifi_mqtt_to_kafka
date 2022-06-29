@@ -1,4 +1,5 @@
 # Introducción
+![single diagram](images/diagram.png)
 
 MQTT es un protocolo de mensajería reconocido en IoT. Utiliza un modelo de comunicación de publisher/subscriber
 y permite distribuir datos de telemetría con un consumo de recursos de red muy bajo.
@@ -11,6 +12,8 @@ será posible derivar diferentes casos de usos.
 
 Apache Nifi es una herramienta para automatizar el flujo de datos entre sistemas. La utilizaremos para distribuir los eventos de MQTT
 hacia Kafka, realizando unas transformaciones de por medio.
+
+![nifi flow](images/flow.png)
 
 # Pre-requisitos
 
